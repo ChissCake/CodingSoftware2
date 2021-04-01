@@ -1,0 +1,9 @@
+outline for methods DONE
+    read in the text file DONE
+    create sequence that holds all the strings DONE
+    parse the sequence into unique strings DONE
+    create set that holds all separators DONE
+    create map that holds key value which corresponds to the number of times the string occurs DONE
+    print HTML opening for title, page/table, etc. DONE
+    print word and their subsequent occurrence in an HTML format  DONE
+    print HTML closing for file DONE
